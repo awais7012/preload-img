@@ -1,4 +1,4 @@
-# preload-images
+# preload-img1
 
 A professional image preloader for JavaScript.
 
